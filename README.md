@@ -23,6 +23,7 @@ FAQs
   1.Use the given environment to execute the script. As there are some functions which cannot be used outside the given environment. 
   2. Resize the image to the same size. 
   
+  
   I wanna make this tool better. How should I get started?
   Please email me at mohammed[dot]ayaz[at]protonmail[dot]com
   
