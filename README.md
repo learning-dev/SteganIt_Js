@@ -17,16 +17,16 @@ We are taking two images and risizing the images to same dimensions. We are runn
 
 This the final assignment of the Course - Programming and the Web for Beginners on Coursera. 
 
-FAQs
-  
-  The script is not working. Where I went wrong?
-  1.Use the given environment to execute the script. As there are some functions which cannot be used outside the given environment. 
-  2. Resize the image to the same size. 
-  
-  
-  I wanna make this tool better. How should I get started?
-  Please email me at mohammed[dot]ayaz[at]protonmail[dot]com
-  
-  When can I expect full working tool?
-  It depends on my time and my prioties. Self help is the best help. Start learning things and you may improve this tool. 
-  
+   FAQs 
+
+The script is not working. Where I went wrong? 
+
+1.Use the given environment to execute the script. As there are some functions which cannot be used outside the given environment.
+2.Resize the image to the same size.
+
+I wanna make this tool better. How should I get started? 
+Please email me at mohammed[dot]ayaz[at]protonmail[dot]com
+
+When can I expect full working tool? 
+It depends on my time and my prioties. Self help is the best help. 
+Start learning things and you may improve this tool.
