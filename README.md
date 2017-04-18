@@ -3,7 +3,8 @@ a JavaScript tool which implements steganography
 
 SteganIt is a tool written in Js which does the following. 
    1. Prepares the container image
-   2. Prepares the image to be hidden
+   2. Prepares the image to be hidden 
+   3. Finally, hides one image in another image. 
   The project is in early stages. Most of the things should be done manually like resizing the image. 
   
   Algorithm 
